@@ -18,6 +18,6 @@ The datasets for the Coronary Drug Project have been submitted to the National H
 
 
 Reference:
-1.	Murray EJ, Hernán MA. Adherence adjustment in the Coronary Drug Project: A call for better per-protocol effect estimates in randomized trials. Clinical Trials. 2016; 13(4): 372 – 378.
+1.	Murray EJ, Hernán MA. Adherence adjustment in the Coronary Drug Project: A call for better per-protocol effect estimates in randomized trials. Clinical Trials. 2016; 13(4): 372 – 378 [http://bit.ly/2tsfm3Y].
 2.	Harrell FE. %rcspline macro. Clinical Biostatistics, . Duke University Medical Center, 1988.
 3.	Devlin TF, Weeks BJ. Spline functions for logistic regression modeling. In:  Proc Eleventh Annual SAS Users Group International,  Atlanta, Georgia,  February 9-12 1986: Cary NC: SAS Institute.
